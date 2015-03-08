@@ -1,3 +1,12 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
 Whenever I need to share code with team, access code from differente machines and also when I want to backup code in an external provider.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Same reasons for separating staged area and commited area. I would only pull things that has some logical change meaning and are really usefull for other users.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are usefull to make a copy of a repository inside git hub in a simple operation. Clones are used to establish a initial sync copy of a repository on your local environment. Fianlly a branch allow splits in the commit story on your local environment.
+
