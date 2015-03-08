@@ -18,3 +18,8 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 Share a network folder and establishing a naming convention to editions or use another tool like dropbox to share files. Changes could be coordinated by e-mail or by some kind of forum.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+To separate releases and people working and to use pull requests, allowing checking by the repository owner before merging.
+
+
