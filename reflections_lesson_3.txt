@@ -13,3 +13,8 @@ Forks are usefull to make a copy of a repository inside git hub in a simple oper
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It avoids merges and allows to work always on sync with other collaborators.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Share a network folder and establishing a naming convention to editions or use another tool like dropbox to share files. Changes could be coordinated by e-mail or by some kind of forum.
+
