@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It creates the .git directory and all necessary metadata to start to track versions and state of elements.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging are starts to organize the elements that constitutes a commit and also acts as a buffer for local changes before commiting to the repository.
+
