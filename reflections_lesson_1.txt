@@ -1,0 +1,26 @@
+It helped me to locate the exact point where I had problems. However, it only would be useful if I know quite well the code.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+I can view the evolution of code, changes that were made and restore code that was wrongly changed.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+Pros: better granularity, due to the possibility of logical segmentation
+Cons: is in the hand of the developer. If he forgots and has a crash, looses all
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+I believe that git is more focused on code, which usually demands changes in several files, while Dropbox and Google Docs are aimed to specific documents and general files.
+
+How can you use the commands git log and git diff to view the history of files?
+
+Log could show the entire history of the repository, showing the changes by time, whenever diff shows changes only between two different commits.
+
+How might using version control make you more confident to make changes that could break something?
+
+If I make something wrong, I could restore the old code.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Managing versions of code for android an my books
